@@ -1,0 +1,15 @@
+C:\Users\matheus.campos\source\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.exe
+C:\Users\matheus.campos\source\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.deps.json
+C:\Users\matheus.campos\source\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.runtimeconfig.json
+C:\Users\matheus.campos\source\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.dll
+C:\Users\matheus.campos\source\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.pdb
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.csproj.AssemblyReference.cache
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.AssemblyInfoInputs.cache
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.AssemblyInfo.cs
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.dll
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\refint\EstudoCSharp.dll
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.pdb
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.genruntimeconfig.cache
+C:\Users\matheus.campos\source\EstudoCSharp\obj\Debug\net6.0\ref\EstudoCSharp.dll
